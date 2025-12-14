@@ -23,17 +23,18 @@
       "description": "إعلان rappelz 1"
     },
     "1": {
-      "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/rappelz/rappelz1.webp",
+      "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/rappelz/rappelz2.webp",
       "clickLink": "https://www.google.com",
       "description": "إعلان rappelz 2"
     },
     "2": {
-      "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/rappelz/rappelz1.webp",
+      "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/rappelz/rappelz3.webp",
       "clickLink": "https://www.google.com",
       "description": "إعلان rappelz 3"
     }
   }
 }
+
 
 
 
