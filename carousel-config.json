@@ -2,38 +2,39 @@
   "aion": {
     "0": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/aion1.webp",
-      "clickLink": "https://www.google.com/",
+      "clickLink": "https://www.google.com",
       "description": "إعلان aion 1"
     },
     "1": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/aion2.webp",
-      "clickLink": "https://www.google.com/",
+      "clickLink": "https://www.google.com",
       "description": "إعلان aion 2"
     },
     "2": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/aion3.webp",
-      "clickLink": "https://www.google.com/",
+      "clickLink": "https://www.google.com",
       "description": "إعلان aion 3"
     }
   },
   "rappelz": {
     "0": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/rappelz1.webp",
-      "clickLink": "https://www.google.com/",
+      "clickLink": "https://www.google.com",
       "description": "إعلان rappelz 1"
     },
     "1": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/rappelz1.webp",
-      "clickLink": "https://www.google.com/",
+      "clickLink": "https://www.google.com",
       "description": "إعلان rappelz 2"
     },
     "2": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/rappelz1.webp",
-      "clickLink": "https://www.google.com/",
+      "clickLink": "https://www.google.com",
       "description": "إعلان rappelz 3"
     }
   }
 }
+
 
 
 
