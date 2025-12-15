@@ -1,7 +1,7 @@
 {
   "aion": {
     "background": {
-      "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/background.webp"
+      "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/refs/heads/main/images/aion/background.webp"
     },
     "0": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/aion1.webp",
@@ -40,3 +40,4 @@
     }
   }
 }
+
