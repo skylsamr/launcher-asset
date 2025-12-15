@@ -21,7 +21,7 @@
   },
   "rappelz": {
     "background": {
-      "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/rappelz/background.webp"
+      "imageUrl": "https://github.com/skylsamr/launcher-asset/blob/main/images/rappelz/background.webp?raw=true"
     },
     "0": {
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/rappelz/rappelz1.webp",
@@ -40,4 +40,5 @@
     }
   }
 }
+
 
