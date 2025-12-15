@@ -18,6 +18,23 @@
       "clickLink": "https://www.google.com",
       "description": "إعلان aion 3"
     }
+    "newsEvent": {
+      "0": {
+        "clickLink": "https://www.google.com"
+        "clickLink": "https://www.google.com"
+      }
+    },
+    "newsAnnouncement": {
+      "0": {
+        "clickLink": "https://www.google.com"
+        "clickLink": "https://www.google.com"
+      }
+    },
+    "newsInformation": {
+      "0": {
+        "clickLink": "https://www.google.com"
+        "clickLink": "https://www.google.com"
+      }
   },
   "rappelz": {
     "background": {
@@ -38,8 +55,27 @@
       "clickLink": "https://www.google.com",
       "description": "إعلان rappelz 3"
     }
+        }
+    "newsEvent": {
+      "0": {
+        "clickLink": "https://www.google.com"
+        "clickLink": "https://www.google.com"
+      }
+    },
+    "newsAnnouncement": {
+      "0": {
+        "clickLink": "https://www.google.com"
+        "clickLink": "https://www.google.com"
+      }
+    },
+    "newsInformation": {
+      "0": {
+        "clickLink": "https://www.google.com"
+        "clickLink": "https://www.google.com"
+      }
   }
 }
+
 
 
 
