@@ -17,36 +17,6 @@
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/aion/aion3.webp",
       "clickLink": "https://www.google.com",
       "description": "إعلان aion 3"
-    },
-    "newsEvent": {
-      "0": {
-        "title": "Chrysos Awoo Championship: Battle Chimeras...",
-        "clickLink": "https://www.google.com"
-      },
-      "1": {
-        "title": "\"Memories are the Prelude to Dreams\" Version...",
-        "clickLink": "https://www.google.com"
-      }
-    },
-    "newsAnnouncement": {
-      "0": {
-        "title": "عنوان الإعلان الأول",
-        "clickLink": "https://www.google.com"
-      },
-      "1": {
-        "title": "عنوان الإعلان الثاني",
-        "clickLink": "https://www.google.com"
-      }
-    },
-    "newsInformation": {
-      "0": {
-        "title": "عنوان المعلومات الأولى",
-        "clickLink": "https://www.google.com"
-      },
-      "1": {
-        "title": "عنوان المعلومات الثانية",
-        "clickLink": "https://www.google.com"
-      }
     }
   },
   "rappelz": {
@@ -67,36 +37,6 @@
       "imageUrl": "https://raw.githubusercontent.com/skylsamr/launcher-asset/main/images/rappelz/rappelz3.webp",
       "clickLink": "https://www.google.com",
       "description": "إعلان rappelz 3"
-    },
-    "newsEvent": {
-      "0": {
-        "title": "Chrysos Awoo Championship: Battle Chimeras...",
-        "clickLink": "https://www.google.com"
-      },
-      "1": {
-        "title": "\"Memories are the Prelude to Dreams\" Version...",
-        "clickLink": "https://www.google.com"
-      }
-    },
-    "newsAnnouncement": {
-      "0": {
-        "title": "عنوان الإعلان الأول",
-        "clickLink": "https://www.google.com"
-      },
-      "1": {
-        "title": "عنوان الإعلان الثاني",
-        "clickLink": "https://www.google.com"
-      }
-    },
-    "newsInformation": {
-      "0": {
-        "title": "عنوان المعلومات الأولى",
-        "clickLink": "https://www.google.com"
-      },
-      "1": {
-        "title": "عنوان المعلومات الثانية",
-        "clickLink": "https://www.google.com"
-      }
     }
   }
 }
